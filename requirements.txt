@@ -1,5 +1,5 @@
 openai
 streamlit
 requests
-PIL
+Pillow
 io
